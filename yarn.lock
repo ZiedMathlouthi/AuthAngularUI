@@ -164,7 +164,7 @@
     "uuid" "8.3.2"
     "yargs" "17.5.1"
 
-"@angular/common@^14.2.0", "@angular/common@>=12.0.0-0", "@angular/common@14.3.0":
+"@angular/common@^14.2.0", "@angular/common@^14.2.1", "@angular/common@14.3.0":
   "integrity" "sha512-pV9oyG3JhGWeQ+TFB0Qub6a1VZWMNZ6/7zEopvYivdqa5yDLLDSBRWb6P80RuONXyGnM1pa7l5nYopX+r/23GQ=="
   "resolved" "https://registry.npmjs.org/@angular/common/-/common-14.3.0.tgz"
   "version" "14.3.0"
@@ -194,7 +194,7 @@
   dependencies:
     "tslib" "^2.3.0"
 
-"@angular/core@^14.2.0", "@angular/core@>=12.0.0-0", "@angular/core@14.3.0":
+"@angular/core@^14.2.0", "@angular/core@^14.2.1", "@angular/core@14.3.0":
   "integrity" "sha512-wYiwItc0Uyn4FWZ/OAx/Ubp2/WrD3EgUJ476y1XI7yATGPF8n9Ld5iCXT08HOvc4eBcYlDfh90kTXR6/MfhzdQ=="
   "resolved" "https://registry.npmjs.org/@angular/core/-/core-14.3.0.tgz"
   "version" "14.3.0"
@@ -215,7 +215,7 @@
   dependencies:
     "tslib" "^2.3.0"
 
-"@angular/platform-browser@^14.2.0", "@angular/platform-browser@>=12.0.0-0", "@angular/platform-browser@14.3.0":
+"@angular/platform-browser@^14.2.0", "@angular/platform-browser@14.3.0":
   "integrity" "sha512-w9Y3740UmTz44T0Egvc+4QV9sEbO61L+aRHbpkLTJdlEGzHByZvxJmJyBYmdqeyTPwc/Zpy7c02frlpfAlyB7A=="
   "resolved" "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-14.3.0.tgz"
   "version" "14.3.0"
@@ -4389,10 +4389,10 @@
   "resolved" "https://registry.npmjs.org/neo-async/-/neo-async-2.6.2.tgz"
   "version" "2.6.2"
 
-"ng-angular-popup@^0.5.2":
-  "integrity" "sha512-7KLXG1NbQkmdBZjfM9ih/+x6oaSaWxTLQsY2hNTG/kzqJytzIedyPVGy3XgaBooliLZNDMMKLqno8AKWEMxiSw=="
-  "resolved" "https://registry.npmjs.org/ng-angular-popup/-/ng-angular-popup-0.5.2.tgz"
-  "version" "0.5.2"
+"ng-angular-popup@^0.2.0":
+  "integrity" "sha512-PKbs0UkLhFNM/+takV3xXPjATsL1hsw/BFyHuq+yUvCoGJKqPssyRcH7lgWEfv++aya6dd+d4jmG5B9xCR+gjw=="
+  "resolved" "https://registry.npmjs.org/ng-angular-popup/-/ng-angular-popup-0.2.0.tgz"
+  "version" "0.2.0"
   dependencies:
     "tslib" "^2.3.0"
 
